@@ -1,2 +1,4 @@
-https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
-https://bohancen.github.io/gfwlist/gfwlist.txt
+### 原始
+  https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+### 新
+  https://bohancen.github.io/gfwlist/gfwlist.txt
